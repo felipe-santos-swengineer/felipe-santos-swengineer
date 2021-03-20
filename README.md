@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @felipe-santos-swengineer
+- 👀 I’m interested in software development...
+- 💞️ I’m looking to collaborate on development companies, either as an intern or as an effective, I am currently in my final year of graduation ...
+- 📫 How to reach me: felipesantosswengineer@gmail.com ...
+
+<!---
+felipe-santos-swengineer/felipe-santos-swengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
