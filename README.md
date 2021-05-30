@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @felipe-santos-swengineer
-- 👀 I’m interested in software development...
-- 💞️ I’m looking to collaborate on development companies, either as an intern or as an effective, I am currently in my final year of graduation ...
-- 📫 How to reach me: felipesantosswengineer@gmail.com ...
+- 👋 Hi, I’m Felipse Santos!
+- 👀 I’m interested in software development, currently an undergraduate student at the Federal University of Ceará and a project grantee.
+- 📫 How to reach me: felipesantosswengineer@gmail.com
 
 <!---
 felipe-santos-swengineer/felipe-santos-swengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
