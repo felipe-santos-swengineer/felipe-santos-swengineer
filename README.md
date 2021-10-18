@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Felipse Santos!
+- 👋 Hi, I’m Felise Santos!
 - 👀 I’m interested in software development, currently an undergraduate student at the Federal University of Ceará and a project grantee.
 - 📫 How to reach me: felipesantosswengineer@gmail.com
 
