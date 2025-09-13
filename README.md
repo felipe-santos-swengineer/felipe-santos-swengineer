@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Felipe Santos!
-- 👀 I’m interested in software development, currently an undergraduate student at the Federal University of Ceará and a project grantee.
+- 👀 I’m interested in software development.
 - 📫 How to reach me: felipesantosswengineer@gmail.com or https://www.linkedin.com/in/felipe-santos-rodrigues/
