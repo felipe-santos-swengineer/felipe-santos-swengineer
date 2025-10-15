@@ -9,11 +9,7 @@ Busco transformar ideias em experiências digitais bem estruturadas, com foco em
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipe-santos-swengineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-swengineer&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipe-santos-swengineer&theme=tokyonight&hide_border=true)
 
 </div>
 
