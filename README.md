@@ -9,7 +9,8 @@ Busco transformar ideias em experiências digitais bem estruturadas, com foco em
 
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-swengineer&layout=compact&theme=tokyonight&hide_border=true&hide=maxscript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-santos-swengineer&layout=compact&theme=tokyonight&hide_border=true&hide=maxscript&count_private=true)
+
 
 </div>
 
