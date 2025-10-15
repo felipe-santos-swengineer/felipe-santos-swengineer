@@ -1,0 +1,29 @@
+name: Update GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"  # atualiza a cada 12h
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        uses: anuraghazra/github-readme-stats@master
+        env:
+          PAT_1: ${{ secrets.PAT_1 }}
+          USERNAME: felipe-santos-swengineer
+          COUNT_PRIVATE: true
+          HIDE: maxscript
+
+      - name: Commit changes
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+          git add .
+          git commit -m "update stats" || echo "No changes"
+          git push
